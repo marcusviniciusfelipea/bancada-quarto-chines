@@ -1,0 +1,146 @@
+[
+{
+  "model": "bancada.regra",
+  "pk": 1,
+  "fields": {
+    "nome": "R01",
+    "assunto": "Horário de funcionamento do campus",
+    "pergunta": "A partir de qual horário o campus começa seu funcionamento?",
+    "trecho": "horário o campus",
+    "palavras_chave": "horário, campus, funcionamento",
+    "resposta": "Às 07h00 da manhã"
+  }
+},
+{
+  "model": "bancada.regra",
+  "pk": 2,
+  "fields": {
+    "nome": "R02",
+    "assunto": "Horário da biblioteca",
+    "pergunta": "A partir de qual horário a biblioteca abre pela manhã?",
+    "trecho": "biblioteca abre",
+    "palavras_chave": "biblioteca, horário, abre, manhã",
+    "resposta": "A partir das 07h30 da manhã"
+  }
+},
+{
+  "model": "bancada.regra",
+  "pk": 3,
+  "fields": {
+    "nome": "R03",
+    "assunto": "Empréstimo de livros",
+    "pergunta": "Como funciona para o aluno conseguir um livro, da biblioteca do campus, emprestado?",
+    "trecho": "livro da biblioteca",
+    "palavras_chave": "aluno, livro, biblioteca, emprestado",
+    "resposta": "Deve-se ir até o bibliotecário com o livro e digitar sua matrícula e senha para obter o empréstimo do livro"
+  }
+},
+{
+  "model": "bancada.regra",
+  "pk": 4,
+  "fields": {
+    "nome": "R04",
+    "assunto": "Matrícula / renovação de matrícula",
+    "pergunta": "O que significa os dois últimos números da matrícula dos alunos?",
+    "trecho": "últimos números da matrícula",
+    "palavras_chave": "números, matrícula, alunos",
+    "resposta": "Significa a ordem de cadastro no SUAP"
+  }
+},
+{
+  "model": "bancada.regra",
+  "pk": 5,
+  "fields": {
+    "nome": "R05",
+    "assunto": "Refeitório / merenda",
+    "pergunta": "Qual o horário que o refeitório abre para a merenda?",
+    "trecho": "refeitório abre",
+    "palavras_chave": "horário, refeitório, abre, merenda",
+    "resposta": "O refeitório abre às 08h30"
+  }
+},
+{
+  "model": "bancada.regra",
+  "pk": 6,
+  "fields": {
+    "nome": "R06",
+    "assunto": "Senha do Wi-Fi",
+    "pergunta": "Para entrar no WI-FI dos visitantes, o que é necessário?",
+    "trecho": "WI-FI dos visitantes",
+    "palavras_chave": "WI-FI, visitantes, senha",
+    "resposta": "Precisa colocar a senha do gov.br"
+  }
+},
+{
+  "model": "bancada.regra",
+  "pk": 7,
+  "fields": {
+    "nome": "R07",
+    "assunto": "Transporte / horário do ônibus",
+    "pergunta": "Qual o horário que os ônibus esperam os alunos no final da tarde?",
+    "trecho": "ônibus esperam os alunos",
+    "palavras_chave": "ônibus, alunos, horário, tarde",
+    "resposta": "Até às 18h00"
+  }
+},
+{
+  "model": "bancada.regra",
+  "pk": 8,
+  "fields": {
+    "nome": "R08",
+    "assunto": "Horário dos servidores",
+    "pergunta": "Qual o horário que a maioria dos servidores acabam o seu turno de trabalho?",
+    "trecho": "servidores acabam o seu turno",
+    "palavras_chave": "servidores, horário, turno, trabalho",
+    "resposta": "Às 16h"
+  }
+},
+{
+  "model": "bancada.regra",
+  "pk": 9,
+  "fields": {
+    "nome": "R09",
+    "assunto": "Calendário acadêmico",
+    "pergunta": "Onde se pode encontrar o calendário acadêmico?",
+    "trecho": "calendário acadêmico",
+    "palavras_chave": "calendário, acadêmico, SUAP",
+    "resposta": "O calendário encontra-se no SUAP"
+  }
+},
+{
+  "model": "bancada.regra",
+  "pk": 10,
+  "fields": {
+    "nome": "R10",
+    "assunto": "Estágio",
+    "pergunta": "Com quem o estagiário precisa falar para conseguir uma declaração de falta ao trabalho?",
+    "trecho": "estagiário precisa falar",
+    "palavras_chave": "estagiário, declaração, falta, trabalho",
+    "resposta": "O estagiário precisa falar com o coordenador do curso"
+  }
+},
+{
+  "model": "bancada.regra",
+  "pk": 11,
+  "fields": {
+    "nome": "R11",
+    "assunto": "Carteira estudantil",
+    "pergunta": "Todos os estudantes possuem, de forma obrigatória, carteiras de identidade?",
+    "trecho": "estudantes possuem",
+    "palavras_chave": "estudantes, obrigatória, carteiras, identidade",
+    "resposta": "Não. O campus não cobra a carteira estudantil."
+  }
+},
+{
+  "model": "bancada.regra",
+  "pk": 12,
+  "fields": {
+    "nome": "R12",
+    "assunto": "Auxílios e bolsas estudantis",
+    "pergunta": "Quais são os auxílios estudantis que o campus oferece?",
+    "trecho": "auxílios estudantis",
+    "palavras_chave": "auxílios, estudantis, campus, oferece",
+    "resposta": "O campus oferece auxílios como: moradia, alimentação, transporte e programa de apoio à formação estudantil(PAFE)"
+  }
+}
+]

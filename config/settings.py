@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-^b9!--8p)()fc)*o*8n!k#58tk4pfk12_x)yavf$+*=+fiu7k*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
@@ -126,3 +126,7 @@ MAILERS = {
         "BACKEND": "django.core.mail.backends.console.EmailBackend",
     },
 }
+CSRF_TRUSTED_ORIGINS = [
+        "https://*.app.github.dev",
+        "https://localhost:8000",
+        ]
