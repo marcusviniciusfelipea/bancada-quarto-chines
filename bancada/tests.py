@@ -36,3 +36,53 @@ class NormalizacaoTeste(SimpleTestCase):
 
     def test_palavras_diferentes_nao_casam(self):
         self.assertIsNone(normalizacao("Qual o horário de funcionamento?", REGRAS))
+
+
+R03 = SimpleNamespace(
+    nome="R03",
+    pergunta="Qual é o horário de funcionamento do campus?",
+    trecho="funcionamento",
+    palavras_chave="horario, funcionamento, campus",
+)
+
+R05 = SimpleNamespace(
+    nome="R05",
+    pergunta="qual o horario que o refeitorio abre para a merenda",
+    trecho="refeitorio",
+    palavras_chave="horario, refeitorio, merenda",
+)
+
+R07 = SimpleNamespace(
+    nome="R07",
+    pergunta="Que horas o ônibus sai do campus no final da tarde?",
+    trecho="onibus",
+    palavras_chave="horas, ônibus, tarde",
+)
+
+R08 = SimpleNamespace(
+    nome="R08",
+    pergunta="Que horas os funcionários e servidores encerram o turno?",
+    trecho="funcionarios",
+    palavras_chave="horas, servidores, turno",
+)
+
+R08 = SimpleNamespace(
+    nome="R08",
+    pergunta="Qual o horaro que a maioria dos servidres acabam o turno",
+    trecho="horário",
+    palavras_chave="De quantas horas a maioria dos servidores vão para casa?",
+)
+
+R012 = SimpleNamespace(
+    nome="R012",
+    pergunta="Quais os auxilios q o campus disponibiliza aos alunos",
+    trecho="auxílios",
+    palavras_chave="O campus oferece quais tipos de auxilios aos alunos",
+)
+
+R04 = SimpleNamespace(
+    nome="R04",
+    pergunta="O que signific os dois ultimos numros da matricla",
+    trecho="últimos",
+    palavras_chave="Qual o significado dos últimos dois números da matrícula?",
+)

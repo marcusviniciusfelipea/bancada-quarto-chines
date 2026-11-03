@@ -35,3 +35,62 @@ def normalizacao(mensagem, regras):
         if mensagem_normalizada == normalizar(regra.pergunta):
             return regra
     return None
+
+def contem(mensagem, regras):
+    """Estratégia 3: o trecho da regra aparece na mensagem (ignora maiúsculas)."""
+    mensagem_minuscula = mensagem.lower()
+    for regra in regras:
+        if regra.trecho.lower() in mensagem_minuscula:
+            return regra
+    return None 
+
+PROPORCAO_MINIMA_PALAVRAS_CHAVE = 0.5
+
+
+def palavras_chave(mensagem, regras):
+    """Estratégia 4: pelo menos 50% das palavras-chave aparecem na mensagem.
+
+    Vence a regra com o maior percentual; em caso de empate, a primeira.
+    """
+    palavras_da_mensagem = set(normalizar(mensagem).split())
+    melhor_regra = None
+    maior_proporcao = 0.0
+    for regra in regras:
+        chaves = [normalizar(p) for p in regra.palavras_chave.split(",") if p.strip()]
+        if not chaves:
+            continue
+        encontradas = sum(1 for chave in chaves if chave in palavras_da_mensagem)
+        proporcao = encontradas / len(chaves)
+        if proporcao > maior_proporcao:
+            melhor_regra = regra
+            maior_proporcao = proporcao
+    if maior_proporcao >= PROPORCAO_MINIMA_PALAVRAS_CHAVE:
+        return melhor_regra
+    return None
+
+LIMIAR_SIMILARIDADE = 0.75
+
+
+def similaridade(mensagem, regras):
+    """Estratégia 5: a regra com a pergunta mais parecida, se passar do limiar."""
+    mensagem_normalizada = normalizar(mensagem)
+    melhor_regra = None
+    maior_valor = 0.0
+    for regra in regras:
+        valor = SequenceMatcher(None, mensagem_normalizada, normalizar(regra.pergunta)).ratio()
+        if valor > maior_valor:
+            melhor_regra = regra
+            maior_valor = valor
+    if maior_valor >= LIMIAR_SIMILARIDADE:
+        return melhor_regra
+    return None
+
+
+# Todas as estratégias, na ordem em que aparecem no TCC
+ESTRATEGIAS = {
+    "Igualdade exata": igualdade_exata,
+    "Normalização": normalizacao,
+    "Contém": contem,
+    "Palavras-chave": palavras_chave,
+    "Similaridade": similaridade,
+}
