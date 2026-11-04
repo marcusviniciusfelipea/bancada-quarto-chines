@@ -1,0 +1,501 @@
+﻿estrategia,numero,mensagem,categoria,regra_esperada,regra_obtida,classificacao
+Igualdade exata,1,A partir de qual horário o campus começa seu funcionamento?,identica,R01,R01,adequada
+Igualdade exata,2,A PARTIR DE QUAL HORARIO O CAMPUS COMESA SEU FUNCIONAMENTO,forma,R01,,sem resposta
+Igualdade exata,3,A q horas o campus abre de manha,forma,R01,,sem resposta
+Igualdade exata,4,Qual é o horário de funcionamento do campus?,parafrase,R01,,sem resposta
+Igualdade exata,5,Que horas o campus abre os portões pela manhã?,parafrase,R01,,sem resposta
+Igualdade exata,6,A partir de que horas posso entrar no campus?,parafrase,R01,,sem resposta
+Igualdade exata,7,A partir de qual horaro o campus comeca seu funcionamnto,digitacao,R01,,sem resposta
+Igualdade exata,8,A partir de qual horário a biblioteca abre pela manhã?,identica,R02,R02,adequada
+Igualdade exata,9,A partir de qual horario a biblioteca abre pela manha,forma,R02,,sem resposta
+Igualdade exata,10,Horario de abertura da biblioteca de manha,forma,R02,,sem resposta
+Igualdade exata,11,Qual o horário que a biblioteca começa a funcionar de manhã?,parafrase,R02,,sem resposta
+Igualdade exata,12,Que horas a biblioteca abre pra estudo?,parafrase,R02,,sem resposta
+Igualdade exata,13,A biblioteca do campus abre de que horas pela manhã?,parafrase,R02,,sem resposta
+Igualdade exata,14,A partir de qual horaro a bibliotca abre pela manha,digitacao,R02,,sem resposta
+Igualdade exata,15,Como funciona para o aluno conseguir um livro da biblioteca do campus emprestado?,identica,R03,,sem resposta
+Igualdade exata,16,como funciona para o aluno conseguir um livro da biblioteca do campus emprestado,forma,R03,,sem resposta
+Igualdade exata,17,Como pega livro emprestado no campus vcs sabem,forma,R03,,sem resposta
+Igualdade exata,18,Qual é o procedimento para pegar um livro emprestado na biblioteca?,parafrase,R03,,sem resposta
+Igualdade exata,19,Como faço para retirar um livro da biblioteca do campus?,parafrase,R03,,sem resposta
+Igualdade exata,20,O que preciso fazer para pegar livro emprestado com o bibliotecário?,parafrase,R03,,sem resposta
+Igualdade exata,21,Como funcion para o aluno consguir um livro emprestado,digitacao,R03,,sem resposta
+Igualdade exata,22,O que significa os dois últimos números da matrícula dos alunos?,identica,R04,R04,adequada
+Igualdade exata,23,O QUE SIGNIFICAM OS DOIS ULTIMOS NUMEROS DA MATRICULA DOS ALUNOS,forma,R04,,sem resposta
+Igualdade exata,24,Os dois ultimos digitos da matricula significam o q,forma,R04,,sem resposta
+Igualdade exata,25,Para que servem os dois últimos dígitos do número da matrícula?,parafrase,R04,,sem resposta
+Igualdade exata,26,O que indicam os 2 últimos números da minha matrícula no SUAP?,parafrase,R04,,sem resposta
+Igualdade exata,27,O final da matrícula do aluno representa o quê?,parafrase,R04,,sem resposta
+Igualdade exata,28,O que signific os dois ultimos numros da matricla,digitacao,R04,,sem resposta
+Igualdade exata,29,Qual o horário que o refeitório abre para a merenda?,identica,R05,R05,adequada
+Igualdade exata,30,qual o horario que o refeitorio abre para a merenda,forma,R05,,sem resposta
+Igualdade exata,31,Que horas abre o refeitorio pra merendar,forma,R05,,sem resposta
+Igualdade exata,32,Qual é o horário do lanche no refeitório?,parafrase,R05,,sem resposta
+Igualdade exata,33,A que horas é servida a merenda no refeitório do campus?,parafrase,R05,,sem resposta
+Igualdade exata,34,Que horas abre o restaurante pra merenda dos alunos?,parafrase,R05,,sem resposta
+Igualdade exata,35,Qual o horaro que o refeitorio abre pra mernda,digitacao,R05,,sem resposta
+Igualdade exata,36,Para entrar no WI-FI dos visitantes o que é necessário?,identica,R06,,sem resposta
+Igualdade exata,37,PARA ENTRAR NO WI-FI DOS VISITANTES O QUE E NECESSARIO,forma,R06,,sem resposta
+Igualdade exata,38,Como conectar na wifi de visitante aqui,forma,R06,,sem resposta
+Igualdade exata,39,Qual é a senha do Wi-Fi de visitantes do campus?,parafrase,R06,,sem resposta
+Igualdade exata,40,Como acessar a rede de internet sem fio para visitantes?,parafrase,R06,,sem resposta
+Igualdade exata,41,O que precisa preencher para logar no Wi-Fi visitante?,parafrase,R06,,sem resposta
+Igualdade exata,42,Para entar no wifi dos visitntes o que e nesesario,digitacao,R06,,sem resposta
+Igualdade exata,43,Qual o horário que os ônibus esperam os alunos no final da tarde?,identica,R07,R07,adequada
+Igualdade exata,44,qual o horario que os onibus esperam os alunos no final da tarde,forma,R07,,sem resposta
+Igualdade exata,45,Ate q horas o busao espera os alunos de tarde,forma,R07,,sem resposta
+Igualdade exata,46,Até que horas os ônibus escolares ficam esperando os alunos no fim da tarde?,parafrase,R07,,sem resposta
+Igualdade exata,47,Que horas o ônibus sai do campus no final da tarde?,parafrase,R07,,sem resposta
+Igualdade exata,48,Qual o limite de horário que o ônibus tolera os estudantes à tarde?,parafrase,R07,,sem resposta
+Igualdade exata,49,Qual o horaro que os onbus esperam os alunos no final da tard,digitacao,R07,,sem resposta
+Igualdade exata,50,Qual o horário que a maioria dos servidores acabam o seu turno de trabalho?,identica,R08,R08,adequada
+Igualdade exata,51,QUAL O HORARIO QUE A MAIORIA DOS SERVIDORES ACABAM O SEU TURNO DE TRABALHO,forma,R08,,sem resposta
+Igualdade exata,52,Que horas os servidores largam do trabalho no campus,forma,R08,,sem resposta
+Igualdade exata,53,Qual o horário de término do expediente da maioria dos servidores?,parafrase,R08,,sem resposta
+Igualdade exata,54,Que horas os funcionários e servidores encerram o turno?,parafrase,R08,,sem resposta
+Igualdade exata,55,A que horas a maioria dos servidores vão embora do campus?,parafrase,R08,,sem resposta
+Igualdade exata,56,Qual o horaro que a maioria dos servidres acabam o turno,digitacao,R08,,sem resposta
+Igualdade exata,57,Onde se pode encontrar o calendário acadêmico?,identica,R09,R09,adequada
+Igualdade exata,58,onde se pode encontrar o calendario academico,forma,R09,,sem resposta
+Igualdade exata,59,Onde acho o calendario academico no suap,forma,R09,,sem resposta
+Igualdade exata,60,Como faço para consultar o calendário de aulas e datas acadêmicas?,parafrase,R09,,sem resposta
+Igualdade exata,61,Onde fica disponível o calendário com os dias de aula?,parafrase,R09,,sem resposta
+Igualdade exata,62,Em qual aba ou sistema encontro o calendário escolar?,parafrase,R09,,sem resposta
+Igualdade exata,63,Ond se pode encontrr o calendro academico,digitacao,R09,,sem resposta
+Igualdade exata,64,Com quem o estagiário precisa falar para conseguir uma declaração de falta ao trabalho?,identica,R10,R10,adequada
+Igualdade exata,65,COM QUEM O ESTAGIARIO PRECISA FALAR PARA CONSEGUIR UMA DECLARACAO DE FALTA AO TRABALHO,forma,R10,,sem resposta
+Igualdade exata,66,Declaração de falta do estagiario fala com quem,forma,R10,,sem resposta
+Igualdade exata,67,Quem é a pessoa responsável por assinar declaração de falta do estagiário?,parafrase,R10,,sem resposta
+Igualdade exata,68,Qual setor ou pessoa o estagiário procura para justificar falta no trabalho?,parafrase,R10,,sem resposta
+Igualdade exata,69,Preciso de declaração de ausência no estágio com quem devo conversar?,parafrase,R10,,sem resposta
+Igualdade exata,70,Com quem o estagario precisa falar pra declaracau de falta,digitacao,R10,,sem resposta
+Igualdade exata,71,Todos os estudantes possuem de forma obrigatória carteiras de identidade?,identica,R11,,sem resposta
+Igualdade exata,72,todos os estudantes possuem de forma obrigatoria carteiras de identidade,forma,R11,,sem resposta
+Igualdade exata,73,E obrigatorio ter carteira de estudante no IFRN,forma,R11,,sem resposta
+Igualdade exata,74,Todo aluno do IFRN é obrigado a emitir carteirinha estudantil?,parafrase,R11,,sem resposta
+Igualdade exata,75,É exigido apresentar carteira de identidade do campus para estudar?,parafrase,R11,,sem resposta
+Igualdade exata,76,O campus cobra ou exige a carteirinha de estudante de todos?,parafrase,R11,,sem resposta
+Igualdade exata,77,Todos os estudntes posuem carteirade identidade obligatoria,digitacao,R11,,sem resposta
+Igualdade exata,78,Quais são os auxílios estudantis que o campus oferece?,identica,R12,R12,adequada
+Igualdade exata,79,QUAIS SAO OS AUXILIOS ESTUDANTIS QUE O CAMPUS OFERECE,forma,R12,,sem resposta
+Igualdade exata,80,Quais os auxilios q o campus disponibiliza aos alunos,forma,R12,,sem resposta
+Igualdade exata,81,Quais bolsas e apoios financeiros a instituição oferece para estudantes?,parafrase,R12,,sem resposta
+Igualdade exata,82,Como funcionam os auxílios de moradia e transporte do campus?,parafrase,R12,,sem resposta
+Igualdade exata,83,Quais programas de assistência estudante do PAFE estão disponíveis?,parafrase,R12,,sem resposta
+Igualdade exata,84,Quais sao os auxilos estudantis que o campu oferece,digitacao,R12,,sem resposta
+Igualdade exata,85,Quem ganhou o jogo de futebol ontem à noite?,fora,,,sem resposta
+Igualdade exata,86,Qual é a capital da França?,fora,,,sem resposta
+Igualdade exata,87,Qual o horário do ônibus da excursão de sábado do campus?,fora,,,sem resposta
+Igualdade exata,88,A biblioteca municipal da cidade abre no domingo?,fora,,,sem resposta
+Igualdade exata,89,O refeitório vai servir almoço ou jantar hoje à noite?,fora,,,sem resposta
+Igualdade exata,90,Como faço para solicitar a senha do Wi-Fi de alunos do eduroam?,fora,,,sem resposta
+Igualdade exata,91,Qual o valor da passagem do ônibus intermunicipal para o campus?,fora,,,sem resposta
+Igualdade exata,92,Quanto ganha um servidor público no concurso do IFRN?,fora,,,sem resposta
+Igualdade exata,93,Como faço para cancelar minha matrícula no curso de informática?,fora,,,sem resposta
+Igualdade exata,94,Qual o contato de WhatsApp do coordenador de estágio?,fora,,,sem resposta
+Igualdade exata,95,Onde posso tirar a primeira via da minha carteira de identidade RG?,fora,,,sem resposta
+Igualdade exata,96,Como faço para me inscrever no processo seletivo do campus?,fora,,,sem resposta
+Igualdade exata,97,A cantina do campus vende lanche ou salgado à tarde?,fora,,,sem resposta
+Igualdade exata,98,Qual o horário de funcionamento da piscina do complexo esportivo?,fora,,,sem resposta
+Igualdade exata,99,Onde encontro o edital do auxílio emergencial do governo federal?,fora,,,sem resposta
+Igualdade exata,100,Quais são os cursos técnicos integrados que o campus oferece?,fora,,,sem resposta
+Normalização,1,A partir de qual horário o campus começa seu funcionamento?,identica,R01,R01,adequada
+Normalização,2,A PARTIR DE QUAL HORARIO O CAMPUS COMESA SEU FUNCIONAMENTO,forma,R01,,sem resposta
+Normalização,3,A q horas o campus abre de manha,forma,R01,,sem resposta
+Normalização,4,Qual é o horário de funcionamento do campus?,parafrase,R01,,sem resposta
+Normalização,5,Que horas o campus abre os portões pela manhã?,parafrase,R01,,sem resposta
+Normalização,6,A partir de que horas posso entrar no campus?,parafrase,R01,,sem resposta
+Normalização,7,A partir de qual horaro o campus comeca seu funcionamnto,digitacao,R01,,sem resposta
+Normalização,8,A partir de qual horário a biblioteca abre pela manhã?,identica,R02,R02,adequada
+Normalização,9,A partir de qual horario a biblioteca abre pela manha,forma,R02,R02,adequada
+Normalização,10,Horario de abertura da biblioteca de manha,forma,R02,,sem resposta
+Normalização,11,Qual o horário que a biblioteca começa a funcionar de manhã?,parafrase,R02,,sem resposta
+Normalização,12,Que horas a biblioteca abre pra estudo?,parafrase,R02,,sem resposta
+Normalização,13,A biblioteca do campus abre de que horas pela manhã?,parafrase,R02,,sem resposta
+Normalização,14,A partir de qual horaro a bibliotca abre pela manha,digitacao,R02,,sem resposta
+Normalização,15,Como funciona para o aluno conseguir um livro da biblioteca do campus emprestado?,identica,R03,R03,adequada
+Normalização,16,como funciona para o aluno conseguir um livro da biblioteca do campus emprestado,forma,R03,R03,adequada
+Normalização,17,Como pega livro emprestado no campus vcs sabem,forma,R03,,sem resposta
+Normalização,18,Qual é o procedimento para pegar um livro emprestado na biblioteca?,parafrase,R03,,sem resposta
+Normalização,19,Como faço para retirar um livro da biblioteca do campus?,parafrase,R03,,sem resposta
+Normalização,20,O que preciso fazer para pegar livro emprestado com o bibliotecário?,parafrase,R03,,sem resposta
+Normalização,21,Como funcion para o aluno consguir um livro emprestado,digitacao,R03,,sem resposta
+Normalização,22,O que significa os dois últimos números da matrícula dos alunos?,identica,R04,R04,adequada
+Normalização,23,O QUE SIGNIFICAM OS DOIS ULTIMOS NUMEROS DA MATRICULA DOS ALUNOS,forma,R04,,sem resposta
+Normalização,24,Os dois ultimos digitos da matricula significam o q,forma,R04,,sem resposta
+Normalização,25,Para que servem os dois últimos dígitos do número da matrícula?,parafrase,R04,,sem resposta
+Normalização,26,O que indicam os 2 últimos números da minha matrícula no SUAP?,parafrase,R04,,sem resposta
+Normalização,27,O final da matrícula do aluno representa o quê?,parafrase,R04,,sem resposta
+Normalização,28,O que signific os dois ultimos numros da matricla,digitacao,R04,,sem resposta
+Normalização,29,Qual o horário que o refeitório abre para a merenda?,identica,R05,R05,adequada
+Normalização,30,qual o horario que o refeitorio abre para a merenda,forma,R05,R05,adequada
+Normalização,31,Que horas abre o refeitorio pra merendar,forma,R05,,sem resposta
+Normalização,32,Qual é o horário do lanche no refeitório?,parafrase,R05,,sem resposta
+Normalização,33,A que horas é servida a merenda no refeitório do campus?,parafrase,R05,,sem resposta
+Normalização,34,Que horas abre o restaurante pra merenda dos alunos?,parafrase,R05,,sem resposta
+Normalização,35,Qual o horaro que o refeitorio abre pra mernda,digitacao,R05,,sem resposta
+Normalização,36,Para entrar no WI-FI dos visitantes o que é necessário?,identica,R06,R06,adequada
+Normalização,37,PARA ENTRAR NO WI-FI DOS VISITANTES O QUE E NECESSARIO,forma,R06,R06,adequada
+Normalização,38,Como conectar na wifi de visitante aqui,forma,R06,,sem resposta
+Normalização,39,Qual é a senha do Wi-Fi de visitantes do campus?,parafrase,R06,,sem resposta
+Normalização,40,Como acessar a rede de internet sem fio para visitantes?,parafrase,R06,,sem resposta
+Normalização,41,O que precisa preencher para logar no Wi-Fi visitante?,parafrase,R06,,sem resposta
+Normalização,42,Para entar no wifi dos visitntes o que e nesesario,digitacao,R06,,sem resposta
+Normalização,43,Qual o horário que os ônibus esperam os alunos no final da tarde?,identica,R07,R07,adequada
+Normalização,44,qual o horario que os onibus esperam os alunos no final da tarde,forma,R07,R07,adequada
+Normalização,45,Ate q horas o busao espera os alunos de tarde,forma,R07,,sem resposta
+Normalização,46,Até que horas os ônibus escolares ficam esperando os alunos no fim da tarde?,parafrase,R07,,sem resposta
+Normalização,47,Que horas o ônibus sai do campus no final da tarde?,parafrase,R07,,sem resposta
+Normalização,48,Qual o limite de horário que o ônibus tolera os estudantes à tarde?,parafrase,R07,,sem resposta
+Normalização,49,Qual o horaro que os onbus esperam os alunos no final da tard,digitacao,R07,,sem resposta
+Normalização,50,Qual o horário que a maioria dos servidores acabam o seu turno de trabalho?,identica,R08,R08,adequada
+Normalização,51,QUAL O HORARIO QUE A MAIORIA DOS SERVIDORES ACABAM O SEU TURNO DE TRABALHO,forma,R08,R08,adequada
+Normalização,52,Que horas os servidores largam do trabalho no campus,forma,R08,,sem resposta
+Normalização,53,Qual o horário de término do expediente da maioria dos servidores?,parafrase,R08,,sem resposta
+Normalização,54,Que horas os funcionários e servidores encerram o turno?,parafrase,R08,,sem resposta
+Normalização,55,A que horas a maioria dos servidores vão embora do campus?,parafrase,R08,,sem resposta
+Normalização,56,Qual o horaro que a maioria dos servidres acabam o turno,digitacao,R08,,sem resposta
+Normalização,57,Onde se pode encontrar o calendário acadêmico?,identica,R09,R09,adequada
+Normalização,58,onde se pode encontrar o calendario academico,forma,R09,R09,adequada
+Normalização,59,Onde acho o calendario academico no suap,forma,R09,,sem resposta
+Normalização,60,Como faço para consultar o calendário de aulas e datas acadêmicas?,parafrase,R09,,sem resposta
+Normalização,61,Onde fica disponível o calendário com os dias de aula?,parafrase,R09,,sem resposta
+Normalização,62,Em qual aba ou sistema encontro o calendário escolar?,parafrase,R09,,sem resposta
+Normalização,63,Ond se pode encontrr o calendro academico,digitacao,R09,,sem resposta
+Normalização,64,Com quem o estagiário precisa falar para conseguir uma declaração de falta ao trabalho?,identica,R10,R10,adequada
+Normalização,65,COM QUEM O ESTAGIARIO PRECISA FALAR PARA CONSEGUIR UMA DECLARACAO DE FALTA AO TRABALHO,forma,R10,R10,adequada
+Normalização,66,Declaração de falta do estagiario fala com quem,forma,R10,,sem resposta
+Normalização,67,Quem é a pessoa responsável por assinar declaração de falta do estagiário?,parafrase,R10,,sem resposta
+Normalização,68,Qual setor ou pessoa o estagiário procura para justificar falta no trabalho?,parafrase,R10,,sem resposta
+Normalização,69,Preciso de declaração de ausência no estágio com quem devo conversar?,parafrase,R10,,sem resposta
+Normalização,70,Com quem o estagario precisa falar pra declaracau de falta,digitacao,R10,,sem resposta
+Normalização,71,Todos os estudantes possuem de forma obrigatória carteiras de identidade?,identica,R11,R11,adequada
+Normalização,72,todos os estudantes possuem de forma obrigatoria carteiras de identidade,forma,R11,R11,adequada
+Normalização,73,E obrigatorio ter carteira de estudante no IFRN,forma,R11,,sem resposta
+Normalização,74,Todo aluno do IFRN é obrigado a emitir carteirinha estudantil?,parafrase,R11,,sem resposta
+Normalização,75,É exigido apresentar carteira de identidade do campus para estudar?,parafrase,R11,,sem resposta
+Normalização,76,O campus cobra ou exige a carteirinha de estudante de todos?,parafrase,R11,,sem resposta
+Normalização,77,Todos os estudntes posuem carteirade identidade obligatoria,digitacao,R11,,sem resposta
+Normalização,78,Quais são os auxílios estudantis que o campus oferece?,identica,R12,R12,adequada
+Normalização,79,QUAIS SAO OS AUXILIOS ESTUDANTIS QUE O CAMPUS OFERECE,forma,R12,R12,adequada
+Normalização,80,Quais os auxilios q o campus disponibiliza aos alunos,forma,R12,,sem resposta
+Normalização,81,Quais bolsas e apoios financeiros a instituição oferece para estudantes?,parafrase,R12,,sem resposta
+Normalização,82,Como funcionam os auxílios de moradia e transporte do campus?,parafrase,R12,,sem resposta
+Normalização,83,Quais programas de assistência estudante do PAFE estão disponíveis?,parafrase,R12,,sem resposta
+Normalização,84,Quais sao os auxilos estudantis que o campu oferece,digitacao,R12,,sem resposta
+Normalização,85,Quem ganhou o jogo de futebol ontem à noite?,fora,,,sem resposta
+Normalização,86,Qual é a capital da França?,fora,,,sem resposta
+Normalização,87,Qual o horário do ônibus da excursão de sábado do campus?,fora,,,sem resposta
+Normalização,88,A biblioteca municipal da cidade abre no domingo?,fora,,,sem resposta
+Normalização,89,O refeitório vai servir almoço ou jantar hoje à noite?,fora,,,sem resposta
+Normalização,90,Como faço para solicitar a senha do Wi-Fi de alunos do eduroam?,fora,,,sem resposta
+Normalização,91,Qual o valor da passagem do ônibus intermunicipal para o campus?,fora,,,sem resposta
+Normalização,92,Quanto ganha um servidor público no concurso do IFRN?,fora,,,sem resposta
+Normalização,93,Como faço para cancelar minha matrícula no curso de informática?,fora,,,sem resposta
+Normalização,94,Qual o contato de WhatsApp do coordenador de estágio?,fora,,,sem resposta
+Normalização,95,Onde posso tirar a primeira via da minha carteira de identidade RG?,fora,,,sem resposta
+Normalização,96,Como faço para me inscrever no processo seletivo do campus?,fora,,,sem resposta
+Normalização,97,A cantina do campus vende lanche ou salgado à tarde?,fora,,,sem resposta
+Normalização,98,Qual o horário de funcionamento da piscina do complexo esportivo?,fora,,,sem resposta
+Normalização,99,Onde encontro o edital do auxílio emergencial do governo federal?,fora,,,sem resposta
+Normalização,100,Quais são os cursos técnicos integrados que o campus oferece?,fora,,,sem resposta
+Contém,1,A partir de qual horário o campus começa seu funcionamento?,identica,R01,R01,adequada
+Contém,2,A PARTIR DE QUAL HORARIO O CAMPUS COMESA SEU FUNCIONAMENTO,forma,R01,,sem resposta
+Contém,3,A q horas o campus abre de manha,forma,R01,,sem resposta
+Contém,4,Qual é o horário de funcionamento do campus?,parafrase,R01,,sem resposta
+Contém,5,Que horas o campus abre os portões pela manhã?,parafrase,R01,,sem resposta
+Contém,6,A partir de que horas posso entrar no campus?,parafrase,R01,,sem resposta
+Contém,7,A partir de qual horaro o campus comeca seu funcionamnto,digitacao,R01,,sem resposta
+Contém,8,A partir de qual horário a biblioteca abre pela manhã?,identica,R02,R02,adequada
+Contém,9,A partir de qual horario a biblioteca abre pela manha,forma,R02,R02,adequada
+Contém,10,Horario de abertura da biblioteca de manha,forma,R02,,sem resposta
+Contém,11,Qual o horário que a biblioteca começa a funcionar de manhã?,parafrase,R02,,sem resposta
+Contém,12,Que horas a biblioteca abre pra estudo?,parafrase,R02,R02,adequada
+Contém,13,A biblioteca do campus abre de que horas pela manhã?,parafrase,R02,,sem resposta
+Contém,14,A partir de qual horaro a bibliotca abre pela manha,digitacao,R02,,sem resposta
+Contém,15,Como funciona para o aluno conseguir um livro da biblioteca do campus emprestado?,identica,R03,R03,adequada
+Contém,16,como funciona para o aluno conseguir um livro da biblioteca do campus emprestado,forma,R03,R03,adequada
+Contém,17,Como pega livro emprestado no campus vcs sabem,forma,R03,,sem resposta
+Contém,18,Qual é o procedimento para pegar um livro emprestado na biblioteca?,parafrase,R03,,sem resposta
+Contém,19,Como faço para retirar um livro da biblioteca do campus?,parafrase,R03,R03,adequada
+Contém,20,O que preciso fazer para pegar livro emprestado com o bibliotecário?,parafrase,R03,,sem resposta
+Contém,21,Como funcion para o aluno consguir um livro emprestado,digitacao,R03,,sem resposta
+Contém,22,O que significa os dois últimos números da matrícula dos alunos?,identica,R04,R04,adequada
+Contém,23,O QUE SIGNIFICAM OS DOIS ULTIMOS NUMEROS DA MATRICULA DOS ALUNOS,forma,R04,,sem resposta
+Contém,24,Os dois ultimos digitos da matricula significam o q,forma,R04,,sem resposta
+Contém,25,Para que servem os dois últimos dígitos do número da matrícula?,parafrase,R04,,sem resposta
+Contém,26,O que indicam os 2 últimos números da minha matrícula no SUAP?,parafrase,R04,,sem resposta
+Contém,27,O final da matrícula do aluno representa o quê?,parafrase,R04,,sem resposta
+Contém,28,O que signific os dois ultimos numros da matricla,digitacao,R04,,sem resposta
+Contém,29,Qual o horário que o refeitório abre para a merenda?,identica,R05,R05,adequada
+Contém,30,qual o horario que o refeitorio abre para a merenda,forma,R05,,sem resposta
+Contém,31,Que horas abre o refeitorio pra merendar,forma,R05,,sem resposta
+Contém,32,Qual é o horário do lanche no refeitório?,parafrase,R05,,sem resposta
+Contém,33,A que horas é servida a merenda no refeitório do campus?,parafrase,R05,,sem resposta
+Contém,34,Que horas abre o restaurante pra merenda dos alunos?,parafrase,R05,,sem resposta
+Contém,35,Qual o horaro que o refeitorio abre pra mernda,digitacao,R05,,sem resposta
+Contém,36,Para entrar no WI-FI dos visitantes o que é necessário?,identica,R06,R06,adequada
+Contém,37,PARA ENTRAR NO WI-FI DOS VISITANTES O QUE E NECESSARIO,forma,R06,R06,adequada
+Contém,38,Como conectar na wifi de visitante aqui,forma,R06,,sem resposta
+Contém,39,Qual é a senha do Wi-Fi de visitantes do campus?,parafrase,R06,,sem resposta
+Contém,40,Como acessar a rede de internet sem fio para visitantes?,parafrase,R06,,sem resposta
+Contém,41,O que precisa preencher para logar no Wi-Fi visitante?,parafrase,R06,,sem resposta
+Contém,42,Para entar no wifi dos visitntes o que e nesesario,digitacao,R06,,sem resposta
+Contém,43,Qual o horário que os ônibus esperam os alunos no final da tarde?,identica,R07,R07,adequada
+Contém,44,qual o horario que os onibus esperam os alunos no final da tarde,forma,R07,,sem resposta
+Contém,45,Ate q horas o busao espera os alunos de tarde,forma,R07,,sem resposta
+Contém,46,Até que horas os ônibus escolares ficam esperando os alunos no fim da tarde?,parafrase,R07,,sem resposta
+Contém,47,Que horas o ônibus sai do campus no final da tarde?,parafrase,R07,,sem resposta
+Contém,48,Qual o limite de horário que o ônibus tolera os estudantes à tarde?,parafrase,R07,,sem resposta
+Contém,49,Qual o horaro que os onbus esperam os alunos no final da tard,digitacao,R07,,sem resposta
+Contém,50,Qual o horário que a maioria dos servidores acabam o seu turno de trabalho?,identica,R08,R08,adequada
+Contém,51,QUAL O HORARIO QUE A MAIORIA DOS SERVIDORES ACABAM O SEU TURNO DE TRABALHO,forma,R08,R08,adequada
+Contém,52,Que horas os servidores largam do trabalho no campus,forma,R08,,sem resposta
+Contém,53,Qual o horário de término do expediente da maioria dos servidores?,parafrase,R08,,sem resposta
+Contém,54,Que horas os funcionários e servidores encerram o turno?,parafrase,R08,,sem resposta
+Contém,55,A que horas a maioria dos servidores vão embora do campus?,parafrase,R08,,sem resposta
+Contém,56,Qual o horaro que a maioria dos servidres acabam o turno,digitacao,R08,,sem resposta
+Contém,57,Onde se pode encontrar o calendário acadêmico?,identica,R09,R09,adequada
+Contém,58,onde se pode encontrar o calendario academico,forma,R09,,sem resposta
+Contém,59,Onde acho o calendario academico no suap,forma,R09,,sem resposta
+Contém,60,Como faço para consultar o calendário de aulas e datas acadêmicas?,parafrase,R09,,sem resposta
+Contém,61,Onde fica disponível o calendário com os dias de aula?,parafrase,R09,,sem resposta
+Contém,62,Em qual aba ou sistema encontro o calendário escolar?,parafrase,R09,,sem resposta
+Contém,63,Ond se pode encontrr o calendro academico,digitacao,R09,,sem resposta
+Contém,64,Com quem o estagiário precisa falar para conseguir uma declaração de falta ao trabalho?,identica,R10,R10,adequada
+Contém,65,COM QUEM O ESTAGIARIO PRECISA FALAR PARA CONSEGUIR UMA DECLARACAO DE FALTA AO TRABALHO,forma,R10,,sem resposta
+Contém,66,Declaração de falta do estagiario fala com quem,forma,R10,,sem resposta
+Contém,67,Quem é a pessoa responsável por assinar declaração de falta do estagiário?,parafrase,R10,,sem resposta
+Contém,68,Qual setor ou pessoa o estagiário procura para justificar falta no trabalho?,parafrase,R10,,sem resposta
+Contém,69,Preciso de declaração de ausência no estágio com quem devo conversar?,parafrase,R10,,sem resposta
+Contém,70,Com quem o estagario precisa falar pra declaracau de falta,digitacao,R10,,sem resposta
+Contém,71,Todos os estudantes possuem de forma obrigatória carteiras de identidade?,identica,R11,R11,adequada
+Contém,72,todos os estudantes possuem de forma obrigatoria carteiras de identidade,forma,R11,R11,adequada
+Contém,73,E obrigatorio ter carteira de estudante no IFRN,forma,R11,,sem resposta
+Contém,74,Todo aluno do IFRN é obrigado a emitir carteirinha estudantil?,parafrase,R11,,sem resposta
+Contém,75,É exigido apresentar carteira de identidade do campus para estudar?,parafrase,R11,,sem resposta
+Contém,76,O campus cobra ou exige a carteirinha de estudante de todos?,parafrase,R11,,sem resposta
+Contém,77,Todos os estudntes posuem carteirade identidade obligatoria,digitacao,R11,,sem resposta
+Contém,78,Quais são os auxílios estudantis que o campus oferece?,identica,R12,R12,adequada
+Contém,79,QUAIS SAO OS AUXILIOS ESTUDANTIS QUE O CAMPUS OFERECE,forma,R12,,sem resposta
+Contém,80,Quais os auxilios q o campus disponibiliza aos alunos,forma,R12,,sem resposta
+Contém,81,Quais bolsas e apoios financeiros a instituição oferece para estudantes?,parafrase,R12,,sem resposta
+Contém,82,Como funcionam os auxílios de moradia e transporte do campus?,parafrase,R12,,sem resposta
+Contém,83,Quais programas de assistência estudante do PAFE estão disponíveis?,parafrase,R12,,sem resposta
+Contém,84,Quais sao os auxilos estudantis que o campu oferece,digitacao,R12,,sem resposta
+Contém,85,Quem ganhou o jogo de futebol ontem à noite?,fora,,,sem resposta
+Contém,86,Qual é a capital da França?,fora,,,sem resposta
+Contém,87,Qual o horário do ônibus da excursão de sábado do campus?,fora,,,sem resposta
+Contém,88,A biblioteca municipal da cidade abre no domingo?,fora,,,sem resposta
+Contém,89,O refeitório vai servir almoço ou jantar hoje à noite?,fora,,,sem resposta
+Contém,90,Como faço para solicitar a senha do Wi-Fi de alunos do eduroam?,fora,,,sem resposta
+Contém,91,Qual o valor da passagem do ônibus intermunicipal para o campus?,fora,,,sem resposta
+Contém,92,Quanto ganha um servidor público no concurso do IFRN?,fora,,,sem resposta
+Contém,93,Como faço para cancelar minha matrícula no curso de informática?,fora,,,sem resposta
+Contém,94,Qual o contato de WhatsApp do coordenador de estágio?,fora,,,sem resposta
+Contém,95,Onde posso tirar a primeira via da minha carteira de identidade RG?,fora,,,sem resposta
+Contém,96,Como faço para me inscrever no processo seletivo do campus?,fora,,,sem resposta
+Contém,97,A cantina do campus vende lanche ou salgado à tarde?,fora,,,sem resposta
+Contém,98,Qual o horário de funcionamento da piscina do complexo esportivo?,fora,,,sem resposta
+Contém,99,Onde encontro o edital do auxílio emergencial do governo federal?,fora,,,sem resposta
+Contém,100,Quais são os cursos técnicos integrados que o campus oferece?,fora,,,sem resposta
+Palavras-chave,1,A partir de qual horário o campus começa seu funcionamento?,identica,R01,R01,adequada
+Palavras-chave,2,A PARTIR DE QUAL HORARIO O CAMPUS COMESA SEU FUNCIONAMENTO,forma,R01,R01,adequada
+Palavras-chave,3,A q horas o campus abre de manha,forma,R01,R02,inadequada
+Palavras-chave,4,Qual é o horário de funcionamento do campus?,parafrase,R01,R01,adequada
+Palavras-chave,5,Que horas o campus abre os portões pela manhã?,parafrase,R01,R02,inadequada
+Palavras-chave,6,A partir de que horas posso entrar no campus?,parafrase,R01,,sem resposta
+Palavras-chave,7,A partir de qual horaro o campus comeca seu funcionamnto,digitacao,R01,,sem resposta
+Palavras-chave,8,A partir de qual horário a biblioteca abre pela manhã?,identica,R02,R02,adequada
+Palavras-chave,9,A partir de qual horario a biblioteca abre pela manha,forma,R02,R02,adequada
+Palavras-chave,10,Horario de abertura da biblioteca de manha,forma,R02,R02,adequada
+Palavras-chave,11,Qual o horário que a biblioteca começa a funcionar de manhã?,parafrase,R02,R02,adequada
+Palavras-chave,12,Que horas a biblioteca abre pra estudo?,parafrase,R02,R02,adequada
+Palavras-chave,13,A biblioteca do campus abre de que horas pela manhã?,parafrase,R02,R02,adequada
+Palavras-chave,14,A partir de qual horaro a bibliotca abre pela manha,digitacao,R02,R02,adequada
+Palavras-chave,15,Como funciona para o aluno conseguir um livro da biblioteca do campus emprestado?,identica,R03,R03,adequada
+Palavras-chave,16,como funciona para o aluno conseguir um livro da biblioteca do campus emprestado,forma,R03,R03,adequada
+Palavras-chave,17,Como pega livro emprestado no campus vcs sabem,forma,R03,R03,adequada
+Palavras-chave,18,Qual é o procedimento para pegar um livro emprestado na biblioteca?,parafrase,R03,R03,adequada
+Palavras-chave,19,Como faço para retirar um livro da biblioteca do campus?,parafrase,R03,R03,adequada
+Palavras-chave,20,O que preciso fazer para pegar livro emprestado com o bibliotecário?,parafrase,R03,R03,adequada
+Palavras-chave,21,Como funcion para o aluno consguir um livro emprestado,digitacao,R03,R03,adequada
+Palavras-chave,22,O que significa os dois últimos números da matrícula dos alunos?,identica,R04,R04,adequada
+Palavras-chave,23,O QUE SIGNIFICAM OS DOIS ULTIMOS NUMEROS DA MATRICULA DOS ALUNOS,forma,R04,R04,adequada
+Palavras-chave,24,Os dois ultimos digitos da matricula significam o q,forma,R04,,sem resposta
+Palavras-chave,25,Para que servem os dois últimos dígitos do número da matrícula?,parafrase,R04,,sem resposta
+Palavras-chave,26,O que indicam os 2 últimos números da minha matrícula no SUAP?,parafrase,R04,R04,adequada
+Palavras-chave,27,O final da matrícula do aluno representa o quê?,parafrase,R04,,sem resposta
+Palavras-chave,28,O que signific os dois ultimos numros da matricla,digitacao,R04,,sem resposta
+Palavras-chave,29,Qual o horário que o refeitório abre para a merenda?,identica,R05,R05,adequada
+Palavras-chave,30,qual o horario que o refeitorio abre para a merenda,forma,R05,R05,adequada
+Palavras-chave,31,Que horas abre o refeitorio pra merendar,forma,R05,R05,adequada
+Palavras-chave,32,Qual é o horário do lanche no refeitório?,parafrase,R05,R05,adequada
+Palavras-chave,33,A que horas é servida a merenda no refeitório do campus?,parafrase,R05,R05,adequada
+Palavras-chave,34,Que horas abre o restaurante pra merenda dos alunos?,parafrase,R05,R05,adequada
+Palavras-chave,35,Qual o horaro que o refeitorio abre pra mernda,digitacao,R05,R05,adequada
+Palavras-chave,36,Para entrar no WI-FI dos visitantes o que é necessário?,identica,R06,,sem resposta
+Palavras-chave,37,PARA ENTRAR NO WI-FI DOS VISITANTES O QUE E NECESSARIO,forma,R06,,sem resposta
+Palavras-chave,38,Como conectar na wifi de visitante aqui,forma,R06,,sem resposta
+Palavras-chave,39,Qual é a senha do Wi-Fi de visitantes do campus?,parafrase,R06,R06,adequada
+Palavras-chave,40,Como acessar a rede de internet sem fio para visitantes?,parafrase,R06,,sem resposta
+Palavras-chave,41,O que precisa preencher para logar no Wi-Fi visitante?,parafrase,R06,,sem resposta
+Palavras-chave,42,Para entar no wifi dos visitntes o que e nesesario,digitacao,R06,,sem resposta
+Palavras-chave,43,Qual o horário que os ônibus esperam os alunos no final da tarde?,identica,R07,R07,adequada
+Palavras-chave,44,qual o horario que os onibus esperam os alunos no final da tarde,forma,R07,R07,adequada
+Palavras-chave,45,Ate q horas o busao espera os alunos de tarde,forma,R07,R07,adequada
+Palavras-chave,46,Até que horas os ônibus escolares ficam esperando os alunos no fim da tarde?,parafrase,R07,R07,adequada
+Palavras-chave,47,Que horas o ônibus sai do campus no final da tarde?,parafrase,R07,R07,adequada
+Palavras-chave,48,Qual o limite de horário que o ônibus tolera os estudantes à tarde?,parafrase,R07,R07,adequada
+Palavras-chave,49,Qual o horaro que os onbus esperam os alunos no final da tard,digitacao,R07,,sem resposta
+Palavras-chave,50,Qual o horário que a maioria dos servidores acabam o seu turno de trabalho?,identica,R08,R08,adequada
+Palavras-chave,51,QUAL O HORARIO QUE A MAIORIA DOS SERVIDORES ACABAM O SEU TURNO DE TRABALHO,forma,R08,R08,adequada
+Palavras-chave,52,Que horas os servidores largam do trabalho no campus,forma,R08,R08,adequada
+Palavras-chave,53,Qual o horário de término do expediente da maioria dos servidores?,parafrase,R08,R08,adequada
+Palavras-chave,54,Que horas os funcionários e servidores encerram o turno?,parafrase,R08,R08,adequada
+Palavras-chave,55,A que horas a maioria dos servidores vão embora do campus?,parafrase,R08,,sem resposta
+Palavras-chave,56,Qual o horaro que a maioria dos servidres acabam o turno,digitacao,R08,,sem resposta
+Palavras-chave,57,Onde se pode encontrar o calendário acadêmico?,identica,R09,R09,adequada
+Palavras-chave,58,onde se pode encontrar o calendario academico,forma,R09,R09,adequada
+Palavras-chave,59,Onde acho o calendario academico no suap,forma,R09,R09,adequada
+Palavras-chave,60,Como faço para consultar o calendário de aulas e datas acadêmicas?,parafrase,R09,,sem resposta
+Palavras-chave,61,Onde fica disponível o calendário com os dias de aula?,parafrase,R09,,sem resposta
+Palavras-chave,62,Em qual aba ou sistema encontro o calendário escolar?,parafrase,R09,,sem resposta
+Palavras-chave,63,Ond se pode encontrr o calendro academico,digitacao,R09,,sem resposta
+Palavras-chave,64,Com quem o estagiário precisa falar para conseguir uma declaração de falta ao trabalho?,identica,R10,R10,adequada
+Palavras-chave,65,COM QUEM O ESTAGIARIO PRECISA FALAR PARA CONSEGUIR UMA DECLARACAO DE FALTA AO TRABALHO,forma,R10,R10,adequada
+Palavras-chave,66,Declaração de falta do estagiario fala com quem,forma,R10,R10,adequada
+Palavras-chave,67,Quem é a pessoa responsável por assinar declaração de falta do estagiário?,parafrase,R10,R10,adequada
+Palavras-chave,68,Qual setor ou pessoa o estagiário procura para justificar falta no trabalho?,parafrase,R10,R10,adequada
+Palavras-chave,69,Preciso de declaração de ausência no estágio com quem devo conversar?,parafrase,R10,,sem resposta
+Palavras-chave,70,Com quem o estagario precisa falar pra declaracau de falta,digitacao,R10,,sem resposta
+Palavras-chave,71,Todos os estudantes possuem de forma obrigatória carteiras de identidade?,identica,R11,R11,adequada
+Palavras-chave,72,todos os estudantes possuem de forma obrigatoria carteiras de identidade,forma,R11,R11,adequada
+Palavras-chave,73,E obrigatorio ter carteira de estudante no IFRN,forma,R11,,sem resposta
+Palavras-chave,74,Todo aluno do IFRN é obrigado a emitir carteirinha estudantil?,parafrase,R11,,sem resposta
+Palavras-chave,75,É exigido apresentar carteira de identidade do campus para estudar?,parafrase,R11,,sem resposta
+Palavras-chave,76,O campus cobra ou exige a carteirinha de estudante de todos?,parafrase,R11,,sem resposta
+Palavras-chave,77,Todos os estudntes posuem carteirade identidade obligatoria,digitacao,R11,,sem resposta
+Palavras-chave,78,Quais são os auxílios estudantis que o campus oferece?,identica,R12,R12,adequada
+Palavras-chave,79,QUAIS SAO OS AUXILIOS ESTUDANTIS QUE O CAMPUS OFERECE,forma,R12,R12,adequada
+Palavras-chave,80,Quais os auxilios q o campus disponibiliza aos alunos,forma,R12,R12,adequada
+Palavras-chave,81,Quais bolsas e apoios financeiros a instituição oferece para estudantes?,parafrase,R12,,sem resposta
+Palavras-chave,82,Como funcionam os auxílios de moradia e transporte do campus?,parafrase,R12,R12,adequada
+Palavras-chave,83,Quais programas de assistência estudante do PAFE estão disponíveis?,parafrase,R12,,sem resposta
+Palavras-chave,84,Quais sao os auxilos estudantis que o campu oferece,digitacao,R12,R12,adequada
+Palavras-chave,85,Quem ganhou o jogo de futebol ontem à noite?,fora,,,sem resposta
+Palavras-chave,86,Qual é a capital da França?,fora,,,sem resposta
+Palavras-chave,87,Qual o horário do ônibus da excursão de sábado do campus?,fora,,R01,inadequada
+Palavras-chave,88,A biblioteca municipal da cidade abre no domingo?,fora,,R02,inadequada
+Palavras-chave,89,O refeitório vai servir almoço ou jantar hoje à noite?,fora,,,sem resposta
+Palavras-chave,90,Como faço para solicitar a senha do Wi-Fi de alunos do eduroam?,fora,,,sem resposta
+Palavras-chave,91,Qual o valor da passagem do ônibus intermunicipal para o campus?,fora,,,sem resposta
+Palavras-chave,92,Quanto ganha um servidor público no concurso do IFRN?,fora,,,sem resposta
+Palavras-chave,93,Como faço para cancelar minha matrícula no curso de informática?,fora,,,sem resposta
+Palavras-chave,94,Qual o contato de WhatsApp do coordenador de estágio?,fora,,,sem resposta
+Palavras-chave,95,Onde posso tirar a primeira via da minha carteira de identidade RG?,fora,,,sem resposta
+Palavras-chave,96,Como faço para me inscrever no processo seletivo do campus?,fora,,,sem resposta
+Palavras-chave,97,A cantina do campus vende lanche ou salgado à tarde?,fora,,,sem resposta
+Palavras-chave,98,Qual o horário de funcionamento da piscina do complexo esportivo?,fora,,R01,inadequada
+Palavras-chave,99,Onde encontro o edital do auxílio emergencial do governo federal?,fora,,,sem resposta
+Palavras-chave,100,Quais são os cursos técnicos integrados que o campus oferece?,fora,,R12,inadequada
+Similaridade,1,A partir de qual horário o campus começa seu funcionamento?,identica,R01,R01,adequada
+Similaridade,2,A PARTIR DE QUAL HORARIO O CAMPUS COMESA SEU FUNCIONAMENTO,forma,R01,R01,adequada
+Similaridade,3,A q horas o campus abre de manha,forma,R01,,sem resposta
+Similaridade,4,Qual é o horário de funcionamento do campus?,parafrase,R01,,sem resposta
+Similaridade,5,Que horas o campus abre os portões pela manhã?,parafrase,R01,,sem resposta
+Similaridade,6,A partir de que horas posso entrar no campus?,parafrase,R01,,sem resposta
+Similaridade,7,A partir de qual horaro o campus comeca seu funcionamnto,digitacao,R01,R01,adequada
+Similaridade,8,A partir de qual horário a biblioteca abre pela manhã?,identica,R02,R02,adequada
+Similaridade,9,A partir de qual horario a biblioteca abre pela manha,forma,R02,R02,adequada
+Similaridade,10,Horario de abertura da biblioteca de manha,forma,R02,,sem resposta
+Similaridade,11,Qual o horário que a biblioteca começa a funcionar de manhã?,parafrase,R02,,sem resposta
+Similaridade,12,Que horas a biblioteca abre pra estudo?,parafrase,R02,,sem resposta
+Similaridade,13,A biblioteca do campus abre de que horas pela manhã?,parafrase,R02,,sem resposta
+Similaridade,14,A partir de qual horaro a bibliotca abre pela manha,digitacao,R02,R02,adequada
+Similaridade,15,Como funciona para o aluno conseguir um livro da biblioteca do campus emprestado?,identica,R03,R03,adequada
+Similaridade,16,como funciona para o aluno conseguir um livro da biblioteca do campus emprestado,forma,R03,R03,adequada
+Similaridade,17,Como pega livro emprestado no campus vcs sabem,forma,R03,,sem resposta
+Similaridade,18,Qual é o procedimento para pegar um livro emprestado na biblioteca?,parafrase,R03,,sem resposta
+Similaridade,19,Como faço para retirar um livro da biblioteca do campus?,parafrase,R03,,sem resposta
+Similaridade,20,O que preciso fazer para pegar livro emprestado com o bibliotecário?,parafrase,R03,,sem resposta
+Similaridade,21,Como funcion para o aluno consguir um livro emprestado,digitacao,R03,R03,adequada
+Similaridade,22,O que significa os dois últimos números da matrícula dos alunos?,identica,R04,R04,adequada
+Similaridade,23,O QUE SIGNIFICAM OS DOIS ULTIMOS NUMEROS DA MATRICULA DOS ALUNOS,forma,R04,R04,adequada
+Similaridade,24,Os dois ultimos digitos da matricula significam o q,forma,R04,,sem resposta
+Similaridade,25,Para que servem os dois últimos dígitos do número da matrícula?,parafrase,R04,,sem resposta
+Similaridade,26,O que indicam os 2 últimos números da minha matrícula no SUAP?,parafrase,R04,R04,adequada
+Similaridade,27,O final da matrícula do aluno representa o quê?,parafrase,R04,,sem resposta
+Similaridade,28,O que signific os dois ultimos numros da matricla,digitacao,R04,R04,adequada
+Similaridade,29,Qual o horário que o refeitório abre para a merenda?,identica,R05,R05,adequada
+Similaridade,30,qual o horario que o refeitorio abre para a merenda,forma,R05,R05,adequada
+Similaridade,31,Que horas abre o refeitorio pra merendar,forma,R05,,sem resposta
+Similaridade,32,Qual é o horário do lanche no refeitório?,parafrase,R05,,sem resposta
+Similaridade,33,A que horas é servida a merenda no refeitório do campus?,parafrase,R05,,sem resposta
+Similaridade,34,Que horas abre o restaurante pra merenda dos alunos?,parafrase,R05,,sem resposta
+Similaridade,35,Qual o horaro que o refeitorio abre pra mernda,digitacao,R05,R05,adequada
+Similaridade,36,Para entrar no WI-FI dos visitantes o que é necessário?,identica,R06,R06,adequada
+Similaridade,37,PARA ENTRAR NO WI-FI DOS VISITANTES O QUE E NECESSARIO,forma,R06,R06,adequada
+Similaridade,38,Como conectar na wifi de visitante aqui,forma,R06,,sem resposta
+Similaridade,39,Qual é a senha do Wi-Fi de visitantes do campus?,parafrase,R06,,sem resposta
+Similaridade,40,Como acessar a rede de internet sem fio para visitantes?,parafrase,R06,,sem resposta
+Similaridade,41,O que precisa preencher para logar no Wi-Fi visitante?,parafrase,R06,,sem resposta
+Similaridade,42,Para entar no wifi dos visitntes o que e nesesario,digitacao,R06,R06,adequada
+Similaridade,43,Qual o horário que os ônibus esperam os alunos no final da tarde?,identica,R07,R07,adequada
+Similaridade,44,qual o horario que os onibus esperam os alunos no final da tarde,forma,R07,R07,adequada
+Similaridade,45,Ate q horas o busao espera os alunos de tarde,forma,R07,,sem resposta
+Similaridade,46,Até que horas os ônibus escolares ficam esperando os alunos no fim da tarde?,parafrase,R07,,sem resposta
+Similaridade,47,Que horas o ônibus sai do campus no final da tarde?,parafrase,R07,,sem resposta
+Similaridade,48,Qual o limite de horário que o ônibus tolera os estudantes à tarde?,parafrase,R07,,sem resposta
+Similaridade,49,Qual o horaro que os onbus esperam os alunos no final da tard,digitacao,R07,R07,adequada
+Similaridade,50,Qual o horário que a maioria dos servidores acabam o seu turno de trabalho?,identica,R08,R08,adequada
+Similaridade,51,QUAL O HORARIO QUE A MAIORIA DOS SERVIDORES ACABAM O SEU TURNO DE TRABALHO,forma,R08,R08,adequada
+Similaridade,52,Que horas os servidores largam do trabalho no campus,forma,R08,,sem resposta
+Similaridade,53,Qual o horário de término do expediente da maioria dos servidores?,parafrase,R08,,sem resposta
+Similaridade,54,Que horas os funcionários e servidores encerram o turno?,parafrase,R08,,sem resposta
+Similaridade,55,A que horas a maioria dos servidores vão embora do campus?,parafrase,R08,,sem resposta
+Similaridade,56,Qual o horaro que a maioria dos servidres acabam o turno,digitacao,R08,R08,adequada
+Similaridade,57,Onde se pode encontrar o calendário acadêmico?,identica,R09,R09,adequada
+Similaridade,58,onde se pode encontrar o calendario academico,forma,R09,R09,adequada
+Similaridade,59,Onde acho o calendario academico no suap,forma,R09,,sem resposta
+Similaridade,60,Como faço para consultar o calendário de aulas e datas acadêmicas?,parafrase,R09,,sem resposta
+Similaridade,61,Onde fica disponível o calendário com os dias de aula?,parafrase,R09,,sem resposta
+Similaridade,62,Em qual aba ou sistema encontro o calendário escolar?,parafrase,R09,,sem resposta
+Similaridade,63,Ond se pode encontrr o calendro academico,digitacao,R09,R09,adequada
+Similaridade,64,Com quem o estagiário precisa falar para conseguir uma declaração de falta ao trabalho?,identica,R10,R10,adequada
+Similaridade,65,COM QUEM O ESTAGIARIO PRECISA FALAR PARA CONSEGUIR UMA DECLARACAO DE FALTA AO TRABALHO,forma,R10,R10,adequada
+Similaridade,66,Declaração de falta do estagiario fala com quem,forma,R10,,sem resposta
+Similaridade,67,Quem é a pessoa responsável por assinar declaração de falta do estagiário?,parafrase,R10,,sem resposta
+Similaridade,68,Qual setor ou pessoa o estagiário procura para justificar falta no trabalho?,parafrase,R10,,sem resposta
+Similaridade,69,Preciso de declaração de ausência no estágio com quem devo conversar?,parafrase,R10,,sem resposta
+Similaridade,70,Com quem o estagario precisa falar pra declaracau de falta,digitacao,R10,R10,adequada
+Similaridade,71,Todos os estudantes possuem de forma obrigatória carteiras de identidade?,identica,R11,R11,adequada
+Similaridade,72,todos os estudantes possuem de forma obrigatoria carteiras de identidade,forma,R11,R11,adequada
+Similaridade,73,E obrigatorio ter carteira de estudante no IFRN,forma,R11,,sem resposta
+Similaridade,74,Todo aluno do IFRN é obrigado a emitir carteirinha estudantil?,parafrase,R11,,sem resposta
+Similaridade,75,É exigido apresentar carteira de identidade do campus para estudar?,parafrase,R11,,sem resposta
+Similaridade,76,O campus cobra ou exige a carteirinha de estudante de todos?,parafrase,R11,,sem resposta
+Similaridade,77,Todos os estudntes posuem carteirade identidade obligatoria,digitacao,R11,,sem resposta
+Similaridade,78,Quais são os auxílios estudantis que o campus oferece?,identica,R12,R12,adequada
+Similaridade,79,QUAIS SAO OS AUXILIOS ESTUDANTIS QUE O CAMPUS OFERECE,forma,R12,R12,adequada
+Similaridade,80,Quais os auxilios q o campus disponibiliza aos alunos,forma,R12,,sem resposta
+Similaridade,81,Quais bolsas e apoios financeiros a instituição oferece para estudantes?,parafrase,R12,,sem resposta
+Similaridade,82,Como funcionam os auxílios de moradia e transporte do campus?,parafrase,R12,,sem resposta
+Similaridade,83,Quais programas de assistência estudante do PAFE estão disponíveis?,parafrase,R12,,sem resposta
+Similaridade,84,Quais sao os auxilos estudantis que o campu oferece,digitacao,R12,R12,adequada
+Similaridade,85,Quem ganhou o jogo de futebol ontem à noite?,fora,,,sem resposta
+Similaridade,86,Qual é a capital da França?,fora,,,sem resposta
+Similaridade,87,Qual o horário do ônibus da excursão de sábado do campus?,fora,,,sem resposta
+Similaridade,88,A biblioteca municipal da cidade abre no domingo?,fora,,,sem resposta
+Similaridade,89,O refeitório vai servir almoço ou jantar hoje à noite?,fora,,,sem resposta
+Similaridade,90,Como faço para solicitar a senha do Wi-Fi de alunos do eduroam?,fora,,,sem resposta
+Similaridade,91,Qual o valor da passagem do ônibus intermunicipal para o campus?,fora,,,sem resposta
+Similaridade,92,Quanto ganha um servidor público no concurso do IFRN?,fora,,,sem resposta
+Similaridade,93,Como faço para cancelar minha matrícula no curso de informática?,fora,,,sem resposta
+Similaridade,94,Qual o contato de WhatsApp do coordenador de estágio?,fora,,,sem resposta
+Similaridade,95,Onde posso tirar a primeira via da minha carteira de identidade RG?,fora,,,sem resposta
+Similaridade,96,Como faço para me inscrever no processo seletivo do campus?,fora,,,sem resposta
+Similaridade,97,A cantina do campus vende lanche ou salgado à tarde?,fora,,,sem resposta
+Similaridade,98,Qual o horário de funcionamento da piscina do complexo esportivo?,fora,,,sem resposta
+Similaridade,99,Onde encontro o edital do auxílio emergencial do governo federal?,fora,,,sem resposta
+Similaridade,100,Quais são os cursos técnicos integrados que o campus oferece?,fora,,,sem resposta
